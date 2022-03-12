@@ -313,7 +313,7 @@ body {
 }
 
 .animais h1 {
-  text-decoration: underline wavy #222 5px;
+  text-decoration: none;
 }
 
 .animais h1::after {
